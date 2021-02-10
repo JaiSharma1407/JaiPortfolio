@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04589a1b-68c2-4e71-b87a-202310e12138" name="Default Changelist" comment="" />
+    <list default="true" id="04589a1b-68c2-4e71-b87a-202310e12138" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.my-portfolio.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.my-portfolio.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.my-portfolio.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.my-portfolio.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Intro/Intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Intro/Intro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Section/Section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Section/Section.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -22,8 +31,6 @@
       <option value="$PROJECT_DIR$/src/Navigation/Navbar/Navbar.css" />
       <option value="$PROJECT_DIR$/src/Containers/Layout/Layout.css" />
       <option value="$PROJECT_DIR$/public/index.html" />
-      <option value="$PROJECT_DIR$/src/App.js" />
-      <option value="$PROJECT_DIR$/src/Containers/Section/Section.css" />
       <option value="$PROJECT_DIR$/src/Containers/Section/Section.js" />
       <option value="$PROJECT_DIR$/src/Containers/Avatar/Avatar.js" />
       <option value="$PROJECT_DIR$/src/Navigation/Navbar/NavbarItems/NavbarItem/NavbarItem.css" />
@@ -31,9 +38,12 @@
       <option value="$PROJECT_DIR$/src/Components/Avatar/Avatar.css" />
       <option value="$PROJECT_DIR$/src/Components/Intro/Intro.js" />
       <option value="$PROJECT_DIR$/src/Components/Intro/Intro.css" />
+      <option value="$PROJECT_DIR$/src/Containers/Section/Section.css" />
+      <option value="$PROJECT_DIR$/src/App.js" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oFPGvvlGqZqA7dQ2mcZkDFuVZh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,12 +73,26 @@
       <workItem from="1612950260893" duration="2433000" />
       <workItem from="1612954072508" duration="760000" />
       <workItem from="1612955682939" duration="1894000" />
-      <workItem from="1612957651135" duration="5302000" />
+      <workItem from="1612957651135" duration="6391000" />
+      <workItem from="1612978485260" duration="32000" />
+      <workItem from="1612978951095" duration="332000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
