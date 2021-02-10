@@ -1,0 +1,25 @@
+﻿.NavbarItem {
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+}
+
+.NavbarItem a {
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    color: #DBE8D4;
+    height: 100%;
+    padding: 16px 15px;
+    border-bottom: 4px solid transparent;
+    cursor: pointer;
+}
+
+.NavbarItem a:hover,
+.NavbarItem a:active,
+.NavbarItem a.active {
+    border-bottom: 4px solid #ff7eaa;
+    color: #ff7eaa;
+}

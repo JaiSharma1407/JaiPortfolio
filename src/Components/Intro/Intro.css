@@ -1,0 +1,50 @@
+.Intro{
+    color: #DBE8D4;
+    text-align: center;
+    justify-content: center;
+}
+
+.Intro span{
+    font-weight: 100;
+    font-size: 4rem;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+}
+
+.Tagline{
+    font-weight: 400;
+    font-size: 1.25rem;
+    letter-spacing: 0.25rem;
+    text-transform: uppercase;
+}
+
+.IntroText{
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 0.15rem;
+    max-width: 500px;
+    margin: 70px auto 0 auto;
+    padding: 10px;
+}
+
+.Avatar{
+    width: 300px;
+    margin: 70px auto 0 auto;
+}
+
+@media (min-width: 700px) {
+    .Intro span{
+        font-size: 7rem;
+    }
+
+    .Tagline{
+        font-weight: 400;
+        font-size: 1.25rem;
+        letter-spacing: 0.25rem;
+        text-transform: uppercase;
+    }
+
+    .IntroText{
+        text-align: left;
+    }
+}

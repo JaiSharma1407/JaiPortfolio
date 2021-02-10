@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04589a1b-68c2-4e71-b87a-202310e12138" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/HOC/Auxilary/Auxilary.js" />
+      <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+      <option value="$PROJECT_DIR$/config/webpack.config.prod.js" />
+      <option value="$PROJECT_DIR$/src/Containers/Layout.js" />
+      <option value="$PROJECT_DIR$/src/Navigation/Navbar/NavbarItems/NavbarItem/NavbarItem.js" />
+      <option value="$PROJECT_DIR$/src/Navigation/Navbar/NavbarItems/NavbarItems.js" />
+      <option value="$PROJECT_DIR$/src/Navigation/Navbar/NavbarItems/NavbarItems.css" />
+      <option value="$PROJECT_DIR$/src/index.css" />
+      <option value="$PROJECT_DIR$/src/Navigation/Navbar/Navbar.js" />
+      <option value="$PROJECT_DIR$/src/Containers/Layout/Layout.js" />
+      <option value="$PROJECT_DIR$/src/Navigation/Navbar/Navbar.css" />
+      <option value="$PROJECT_DIR$/src/Containers/Layout/Layout.css" />
+      <option value="$PROJECT_DIR$/public/index.html" />
+      <option value="$PROJECT_DIR$/src/App.js" />
+      <option value="$PROJECT_DIR$/src/Containers/Section/Section.css" />
+      <option value="$PROJECT_DIR$/src/Containers/Section/Section.js" />
+      <option value="$PROJECT_DIR$/src/Containers/Avatar/Avatar.js" />
+      <option value="$PROJECT_DIR$/src/Navigation/Navbar/NavbarItems/NavbarItem/NavbarItem.css" />
+      <option value="$PROJECT_DIR$/src/Components/Avatar/Avatar.js" />
+      <option value="$PROJECT_DIR$/src/Components/Avatar/Avatar.css" />
+      <option value="$PROJECT_DIR$/src/Components/Intro/Intro.js" />
+      <option value="$PROJECT_DIR$/src/Components/Intro/Intro.css" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1oFPGvvlGqZqA7dQ2mcZkDFuVZh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04589a1b-68c2-4e71-b87a-202310e12138" name="Default Changelist" comment="" />
+      <created>1612879300476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612879300476</updated>
+      <workItem from="1612879311281" duration="1121000" />
+      <workItem from="1612950260893" duration="2433000" />
+      <workItem from="1612954072508" duration="760000" />
+      <workItem from="1612955682939" duration="1894000" />
+      <workItem from="1612957651135" duration="5302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
