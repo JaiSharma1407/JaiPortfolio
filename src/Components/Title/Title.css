@@ -1,0 +1,21 @@
+﻿.Title{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    letter-spacing: 0.6rem;
+    margin-top: 200px;
+}
+
+.Title::after{
+    content: '';
+    display: block;
+    position: relative;
+    bottom: -20px;
+    left: 50%;
+    width: 16rem;
+    height: 4px;
+    margin-left: -8rem;
+    background-color: #525e65;
+}
