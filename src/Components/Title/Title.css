@@ -1,14 +1,24 @@
-﻿.Title{
+﻿.Title {
+    text-align: center;
+}
+
+.Tagline {
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 1rem;
+    font-weight: 100;
+    letter-spacing: 0.08rem;
+    margin-top: 50px;
+}
+
+.Header {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2rem;
     color: white;
-    text-align: center;
     letter-spacing: 0.6rem;
-    margin-top: 200px;
 }
 
-.Title::after{
+.Header::after {
     content: '';
     display: block;
     position: relative;
@@ -17,5 +27,5 @@
     width: 16rem;
     height: 4px;
     margin-left: -8rem;
-    background-color: #525e65;
+    background-color: rgba(255, 255, 255, 0.3);
 }

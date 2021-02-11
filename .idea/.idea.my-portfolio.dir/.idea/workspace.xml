@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04589a1b-68c2-4e71-b87a-202310e12138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Title/Title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Title/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/WebProjects/WebProjects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/WebProjects/WebProjects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.my-portfolio.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.my-portfolio.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/Section/Section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Section/Section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Title/Title.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Title/Title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Title/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Title/Title.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +40,12 @@
       <option value="$PROJECT_DIR$/src/Components/Avatar/Avatar.css" />
       <option value="$PROJECT_DIR$/src/Components/Intro/Intro.js" />
       <option value="$PROJECT_DIR$/src/Components/Intro/Intro.css" />
-      <option value="$PROJECT_DIR$/src/Components/Title/Title.js" />
       <option value="$PROJECT_DIR$/src/Containers/Section/Section.css" />
-      <option value="$PROJECT_DIR$/src/Components/Title/Title.css" />
       <option value="$PROJECT_DIR$/src/App.js" />
+      <option value="$PROJECT_DIR$/src/Components/WebProjects/WebProjects.css" />
+      <option value="$PROJECT_DIR$/src/Components/WebProjects/WebProjects.js" />
+      <option value="$PROJECT_DIR$/src/Components/Title/Title.js" />
+      <option value="$PROJECT_DIR$/src/Components/Title/Title.css" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oFPGvvlGqZqA7dQ2mcZkDFuVZh" />
@@ -79,7 +82,8 @@
       <workItem from="1612957651135" duration="6391000" />
       <workItem from="1612978485260" duration="32000" />
       <workItem from="1612978951095" duration="1203000" />
-      <workItem from="1612984187221" duration="1321000" />
+      <workItem from="1612984187221" duration="1946000" />
+      <workItem from="1613036796338" duration="2043000" />
     </task>
     <servers />
   </component>
